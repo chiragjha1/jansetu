@@ -1,0 +1,56 @@
+[
+  {
+    "id": "PMGSY",
+    "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "purpose": "Provide all-weather rural road connectivity to eligible unconnected habitations.",
+    "eligible_works": "Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping, village approach roads.",
+    "exclusions": "Internal village lanes/paving (covered by panchayat funds), national/state highways, urban municipal roads.",
+    "unit_cost_crore": 0.65,
+    "disclaimer": "Summary for prototype, verify with official MoRD guidelines"
+  },
+  {
+    "id": "JJM",
+    "name": "Jal Jeevan Mission (JJM)",
+    "purpose": "Provide Functional Household Tap Connections (FHTC) to every rural household with safe and adequate drinking water.",
+    "eligible_works": "Piped drinking water distribution networks, borewell solar pumps, village water storage tanks, filtration plants, community tap points.",
+    "exclusions": "Agricultural irrigation pipelines, private household plumbing repairs, sewage treatment lines.",
+    "unit_cost_crore": 0.45,
+    "disclaimer": "Summary for prototype, verify with official Jal Shakti guidelines"
+  },
+  {
+    "id": "MGNREGA",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+    "purpose": "Enhance livelihood security by providing 100 days of guaranteed wage employment while creating durable rural community assets.",
+    "eligible_works": "Water conservation and harvesting, check dams, desilting of ponds/canals, rural connectivity gravel paths, flood control bunds, farm ponds.",
+    "exclusions": "Heavy machine-only contractor works, high-tech industrial construction, works on private land without small/marginal farmer status.",
+    "unit_cost_crore": 0.25,
+    "disclaimer": "Summary for prototype, verify with official MoRD guidelines"
+  },
+  {
+    "id": "PMAY-G",
+    "name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "purpose": "Provide financial assistance to homeless and kutcha/dilapidated house owners in rural areas to construct pucca houses with basic amenities.",
+    "eligible_works": "Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment, solar electrification for dwelling clusters.",
+    "exclusions": "Urban multi-storey housing, commercial retail shops, non-residential community buildings.",
+    "unit_cost_crore": 0.35,
+    "disclaimer": "Summary for prototype, verify with official MoRD guidelines"
+  },
+  {
+    "id": "SAMAGRA_SHIKSHA",
+    "name": "Samagra Shiksha Abhiyan",
+    "purpose": "Provide inclusive and equitable quality education from pre-school to senior secondary level with modern infrastructure.",
+    "eligible_works": "Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points, science/computer labs.",
+    "exclusions": "Private/unaided school premises, teacher salary deficits, higher education/university infrastructure.",
+    "unit_cost_crore": 0.40,
+    "disclaimer": "Summary for prototype, verify with official MoE guidelines"
+  },
+  {
+    "id": "NHM",
+    "name": "National Health Mission (NHM / Ayushman Arogya Mandir)",
+    "purpose": "Universal access to equitable, affordable, and quality public health care services in rural and tribal regions.",
+    "eligible_works": "Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, community cold chain for vaccines, staff quarters.",
+    "exclusions": "Tertiary super-specialty hospitals (AIIMS level), private nursing home grants, routine cosmetic renovations.",
+    "unit_cost_crore": 0.55,
+    "disclaimer": "Summary for prototype, verify with official MoHFW guidelines"
+  }
+]

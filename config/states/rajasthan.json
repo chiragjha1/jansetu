@@ -1,0 +1,85 @@
+{
+  "id": "rajasthan",
+  "name": "Rajasthan",
+  "native_name": "राजस्थान",
+  "language_code": "hi",
+  "language_name": "Hindi",
+  "districts": [
+    {
+      "id": "barmer",
+      "name": "Barmer",
+      "native_name": "बाड़मेर",
+      "lat": 25.7532,
+      "lng": 71.3967,
+      "population": 2603751,
+      "digital_access_rate": 0.35,
+      "indicators": {
+        "road_connectivity": 0.42,
+        "tap_water": 0.28,
+        "phc_access": 0.32,
+        "school_access": 0.45,
+        "electricity_reliability": 0.50,
+        "sanitation": 0.38
+      }
+    },
+    {
+      "id": "udaipur",
+      "name": "Udaipur",
+      "native_name": "उदयपुर",
+      "lat": 24.5854,
+      "lng": 73.7125,
+      "population": 3068420,
+      "digital_access_rate": 0.48,
+      "indicators": {
+        "road_connectivity": 0.38,
+        "tap_water": 0.55,
+        "phc_access": 0.45,
+        "school_access": 0.52,
+        "electricity_reliability": 0.60,
+        "sanitation": 0.48
+      }
+    },
+    {
+      "id": "jodhpur",
+      "name": "Jodhpur",
+      "native_name": "जोधपुर",
+      "lat": 26.2389,
+      "lng": 73.0243,
+      "population": 3687002,
+      "digital_access_rate": 0.62,
+      "indicators": {
+        "road_connectivity": 0.58,
+        "tap_water": 0.35,
+        "phc_access": 0.55,
+        "school_access": 0.60,
+        "electricity_reliability": 0.68,
+        "sanitation": 0.52
+      }
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "native_name": "जयपुर",
+      "lat": 26.9124,
+      "lng": 75.7873,
+      "population": 6626178,
+      "digital_access_rate": 0.82,
+      "indicators": {
+        "road_connectivity": 0.75,
+        "tap_water": 0.62,
+        "phc_access": 0.70,
+        "school_access": 0.72,
+        "electricity_reliability": 0.85,
+        "sanitation": 0.74
+      }
+    }
+  ],
+  "scheme_budgets": {
+    "PMGSY": 14.5,
+    "JJM": 18.0,
+    "MGNREGA": 12.0,
+    "PMAY-G": 8.0,
+    "SAMAGRA_SHIKSHA": 9.5,
+    "NHM": 11.0
+  }
+}

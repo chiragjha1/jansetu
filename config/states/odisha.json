@@ -1,0 +1,85 @@
+{
+  "id": "odisha",
+  "name": "Odisha",
+  "native_name": "ଓଡ଼ିଶା",
+  "language_code": "or",
+  "language_name": "Odia",
+  "districts": [
+    {
+      "id": "koraput",
+      "name": "Koraput",
+      "native_name": "କୋରାପୁଟ",
+      "lat": 18.8135,
+      "lng": 82.7123,
+      "population": 1379647,
+      "digital_access_rate": 0.28,
+      "indicators": {
+        "road_connectivity": 0.34,
+        "tap_water": 0.42,
+        "phc_access": 0.30,
+        "school_access": 0.40,
+        "electricity_reliability": 0.45,
+        "sanitation": 0.32
+      }
+    },
+    {
+      "id": "mayurbhanj",
+      "name": "Mayurbhanj",
+      "native_name": "ମୟୂରଭଞ୍ଜ",
+      "lat": 21.9284,
+      "lng": 86.7378,
+      "population": 2519738,
+      "digital_access_rate": 0.38,
+      "indicators": {
+        "road_connectivity": 0.44,
+        "tap_water": 0.38,
+        "phc_access": 0.36,
+        "school_access": 0.50,
+        "electricity_reliability": 0.52,
+        "sanitation": 0.40
+      }
+    },
+    {
+      "id": "sambalpur",
+      "name": "Sambalpur",
+      "native_name": "ସମ୍ବଲପୁର",
+      "lat": 21.4669,
+      "lng": 83.9812,
+      "population": 1041099,
+      "digital_access_rate": 0.64,
+      "indicators": {
+        "road_connectivity": 0.62,
+        "tap_water": 0.58,
+        "phc_access": 0.58,
+        "school_access": 0.65,
+        "electricity_reliability": 0.72,
+        "sanitation": 0.56
+      }
+    },
+    {
+      "id": "khordha",
+      "name": "Khordha",
+      "native_name": "ଖୋର୍ଦ୍ଧା",
+      "lat": 20.1824,
+      "lng": 85.6163,
+      "population": 1874405,
+      "digital_access_rate": 0.84,
+      "indicators": {
+        "road_connectivity": 0.78,
+        "tap_water": 0.70,
+        "phc_access": 0.76,
+        "school_access": 0.80,
+        "electricity_reliability": 0.88,
+        "sanitation": 0.72
+      }
+    }
+  ],
+  "scheme_budgets": {
+    "PMGSY": 16.0,
+    "JJM": 15.0,
+    "MGNREGA": 14.0,
+    "PMAY-G": 10.0,
+    "SAMAGRA_SHIKSHA": 8.5,
+    "NHM": 10.5
+  }
+}

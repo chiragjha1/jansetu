@@ -1,0 +1,29 @@
+[
+  {
+    "ticket_id": "TICKET-DEMO-01",
+    "state": "rajasthan",
+    "district": "barmer",
+    "village": "Ramsar",
+    "stage": "grouped",
+    "description": "Ramsar drinking water pipeline crisis",
+    "project_id": "PRJ-RAJ-001"
+  },
+  {
+    "ticket_id": "TICKET-DEMO-02",
+    "state": "odisha",
+    "district": "koraput",
+    "village": "Lamtaput",
+    "stage": "funded",
+    "description": "Lamtaput all-weather road connectivity",
+    "project_id": "PRJ-ODI-002"
+  },
+  {
+    "ticket_id": "TICKET-DEMO-03",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "village": "Tiruvadanai",
+    "stage": "completed",
+    "description": "Tiruvadanai PHC vaccine cold storage installation",
+    "project_id": "PRJ-TAM-003"
+  }
+]

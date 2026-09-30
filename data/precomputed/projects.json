@@ -1,0 +1,3503 @@
+[
+  {
+    "id": "PRJ-RAJ-001",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Ramsar, Baytu",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Ramsar",
+      "Baytu",
+      "Balotra",
+      "Gudamalani"
+    ],
+    "request_ids": [
+      "TICKET-DEMO-01",
+      "REQ-SPAM-01",
+      "REQ-SPAM-02",
+      "REQ-SPAM-04",
+      "REQ-SPAM-05",
+      "REQ-RAJ-101",
+      "REQ-RAJ-104",
+      "REQ-RAJ-107",
+      "REQ-RAJ-112"
+    ],
+    "issue_count": 9,
+    "unique_citizens": 6,
+    "avg_urgency": 4,
+    "est_affected_population": 30600,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-24T11:39:40.024Z",
+        "note": "9 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.778Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.779Z",
+        "note": "Scored and routed to JJM."
+      },
+      {
+        "stage": "funded",
+        "timestamp": "2026-09-29T11:40:13.780Z",
+        "note": "Budget allocated under Jal Jeevan Mission."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-002",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Lamtaput, Boipariguda",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Lamtaput",
+      "Boipariguda",
+      "Pottangi"
+    ],
+    "request_ids": [
+      "TICKET-DEMO-02",
+      "REQ-ODI-149",
+      "REQ-ODI-152",
+      "REQ-ODI-157"
+    ],
+    "issue_count": 4,
+    "unique_citizens": 4,
+    "avg_urgency": 4,
+    "est_affected_population": 19200,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "4 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMGSY."
+      },
+      {
+        "stage": "funded",
+        "timestamp": "2026-09-26T11:40:13.780Z",
+        "note": "Sanctioned and scheduled under PMGSY batch 2026."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-003",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "electricity",
+    "title": "Dedicated transformer installation and high-capacity electricity transmission in Tiruvadanai",
+    "sub_issue": "Dedicated transformer installation and high-capacity electricity transmission",
+    "village_texts": [
+      "Tiruvadanai"
+    ],
+    "request_ids": [
+      "TICKET-DEMO-03",
+      "REQ-TAM-203"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 3,
+    "est_affected_population": 4200,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-29T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      },
+      {
+        "stage": "funded",
+        "timestamp": "2026-09-15T11:40:13.780Z",
+        "note": "Sanctioned and funded under National Health Mission."
+      },
+      {
+        "stage": "completed",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Solar refrigeration & labour room installation completed and verified by field officer.",
+        "photo_url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&auto=format&fit=crop&q=60"
+      }
+    ],
+    "verification": {
+      "matches_reported_issue": true,
+      "shows_completion": true,
+      "evidence_notes": "Solar cold chain storage units installed and operational at Tiruvadanai PHC with continuous power supply.",
+      "confidence": 0.98,
+      "verdict": "verified",
+      "is_live_ai": false
+    }
+  },
+  {
+    "id": "PRJ-RAJ-004",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Baytu, Chohtan",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Baytu",
+      "Chohtan",
+      "Sedwa"
+    ],
+    "request_ids": [
+      "REQ-SPAM-03",
+      "REQ-RAJ-103",
+      "REQ-RAJ-109"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-28T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-005",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Sheo, Dhorimanna",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Sheo",
+      "Dhorimanna",
+      "Chohtan"
+    ],
+    "request_ids": [
+      "REQ-RAJ-102",
+      "REQ-RAJ-106",
+      "REQ-RAJ-110",
+      "REQ-RAJ-245"
+    ],
+    "issue_count": 4,
+    "unique_citizens": 4,
+    "avg_urgency": 4,
+    "est_affected_population": 19200,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-11T11:39:40.024Z",
+        "note": "4 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-006",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Gudamalani",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Gudamalani"
+    ],
+    "request_ids": [
+      "REQ-RAJ-105"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-007",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "electricity",
+    "title": "Dedicated transformer installation and high-capacity electricity transmission in Sindhari",
+    "sub_issue": "Dedicated transformer installation and high-capacity electricity transmission",
+    "village_texts": [
+      "Sindhari"
+    ],
+    "request_ids": [
+      "REQ-RAJ-108"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 2100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-008",
+    "state": "rajasthan",
+    "district": "barmer",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Baytu",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Baytu"
+    ],
+    "request_ids": [
+      "REQ-RAJ-111"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-22T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for barmer."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-009",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Kotra",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Kotra"
+    ],
+    "request_ids": [
+      "REQ-RAJ-113",
+      "REQ-RAJ-121"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 9600,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-24T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-010",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Kotra, Jhadol",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Kotra",
+      "Jhadol",
+      "Salumbar"
+    ],
+    "request_ids": [
+      "REQ-RAJ-114",
+      "REQ-RAJ-115",
+      "REQ-RAJ-122",
+      "REQ-RAJ-123"
+    ],
+    "issue_count": 4,
+    "unique_citizens": 4,
+    "avg_urgency": 2,
+    "est_affected_population": 6000,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-24T11:39:40.024Z",
+        "note": "4 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-011",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Salumbar, Mavli",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Salumbar",
+      "Mavli",
+      "Gogunda"
+    ],
+    "request_ids": [
+      "REQ-RAJ-116",
+      "REQ-RAJ-119",
+      "REQ-RAJ-124"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 10200,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-012",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Kherwara",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Kherwara"
+    ],
+    "request_ids": [
+      "REQ-RAJ-117"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 1200,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-18T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-013",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Gogunda, Kotra",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Gogunda",
+      "Kotra"
+    ],
+    "request_ids": [
+      "REQ-RAJ-118",
+      "REQ-RAJ-246"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 5,
+    "est_affected_population": 12400,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-15T11:39:40.025Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-014",
+    "state": "rajasthan",
+    "district": "udaipur",
+    "category": "electricity",
+    "title": "Dedicated transformer installation and high-capacity electricity transmission in Vallabhnagar",
+    "sub_issue": "Dedicated transformer installation and high-capacity electricity transmission",
+    "village_texts": [
+      "Vallabhnagar"
+    ],
+    "request_ids": [
+      "REQ-RAJ-120"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 2100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for udaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-015",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Osian, Phalodi",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Osian",
+      "Phalodi",
+      "Balesar"
+    ],
+    "request_ids": [
+      "REQ-RAJ-125",
+      "REQ-RAJ-126",
+      "REQ-RAJ-131"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 10200,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-15T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-016",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Bhopalgarh, Osian",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Bhopalgarh",
+      "Osian"
+    ],
+    "request_ids": [
+      "REQ-RAJ-127",
+      "REQ-RAJ-133"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 9600,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-17T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-017",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Bilara, Luni",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Bilara",
+      "Luni",
+      "Shergarh"
+    ],
+    "request_ids": [
+      "REQ-RAJ-128",
+      "REQ-RAJ-129",
+      "REQ-RAJ-130"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-22T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-018",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Tiwari",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Tiwari"
+    ],
+    "request_ids": [
+      "REQ-RAJ-132"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-29T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-019",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Phalodi",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Phalodi"
+    ],
+    "request_ids": [
+      "REQ-RAJ-134"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-06T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-020",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "sanitation",
+    "title": "Solid waste management and concrete drainage channel network in Bhopalgarh",
+    "sub_issue": "Solid waste management and concrete drainage channel network",
+    "village_texts": [
+      "Bhopalgarh"
+    ],
+    "request_ids": [
+      "REQ-RAJ-135"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 4,
+    "est_affected_population": 2900,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": "PMAY-G",
+      "reasoning": "Community wastewater drainage, soak pits, and solid waste composting in rural panchayats are permitted works under MGNREGA.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, desilting of ponds/canals, rural sanitation structures.\"",
+      "confidence": 0.88,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-021",
+    "state": "rajasthan",
+    "district": "jodhpur",
+    "category": "irrigation",
+    "title": "Check dam construction and irrigation canal desilting in Bilara",
+    "sub_issue": "Check dam construction and irrigation canal desilting",
+    "village_texts": [
+      "Bilara"
+    ],
+    "request_ids": [
+      "REQ-RAJ-136"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 3100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Canal desilting, check dam construction, and natural resource water conservation are core MGNREGA works.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, check dams, desilting of ponds/canals.\"",
+      "confidence": 0.92,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-20T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jodhpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-022",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Chaksu, Jamwa Ramgarh",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Chaksu",
+      "Jamwa Ramgarh",
+      "Bassie"
+    ],
+    "request_ids": [
+      "REQ-RAJ-137",
+      "REQ-RAJ-139",
+      "REQ-RAJ-147"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-21T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-023",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Kotputli",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Kotputli"
+    ],
+    "request_ids": [
+      "REQ-RAJ-138"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-09T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-024",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "sanitation",
+    "title": "Solid waste management and concrete drainage channel network in Phulera",
+    "sub_issue": "Solid waste management and concrete drainage channel network",
+    "village_texts": [
+      "Phulera"
+    ],
+    "request_ids": [
+      "REQ-RAJ-140"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 4,
+    "est_affected_population": 2900,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": "PMAY-G",
+      "reasoning": "Community wastewater drainage, soak pits, and solid waste composting in rural panchayats are permitted works under MGNREGA.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, desilting of ponds/canals, rural sanitation structures.\"",
+      "confidence": 0.88,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-06T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-025",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Sanganer Rural, Kotputli",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Sanganer Rural",
+      "Kotputli"
+    ],
+    "request_ids": [
+      "REQ-RAJ-141",
+      "REQ-RAJ-145"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 9600,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-08T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-026",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Bassie, Chaksu",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Bassie",
+      "Chaksu"
+    ],
+    "request_ids": [
+      "REQ-RAJ-142",
+      "REQ-RAJ-247"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 3,
+    "est_affected_population": 2400,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.025Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-027",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "electricity",
+    "title": "Dedicated transformer installation and high-capacity electricity transmission in Shahpura",
+    "sub_issue": "Dedicated transformer installation and high-capacity electricity transmission",
+    "village_texts": [
+      "Shahpura"
+    ],
+    "request_ids": [
+      "REQ-RAJ-143"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 2100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-13T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-028",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Amer Rural, Phulera",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Amer Rural",
+      "Phulera"
+    ],
+    "request_ids": [
+      "REQ-RAJ-144",
+      "REQ-RAJ-146"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 6800,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-20T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-RAJ-029",
+    "state": "rajasthan",
+    "district": "jaipur",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Shahpura",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Shahpura"
+    ],
+    "request_ids": [
+      "REQ-RAJ-148"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-15T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for jaipur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-030",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Pottangi",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Pottangi"
+    ],
+    "request_ids": [
+      "REQ-ODI-150"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-24T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.780Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.780Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-031",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Semiliguda, Lamtaput",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Semiliguda",
+      "Lamtaput"
+    ],
+    "request_ids": [
+      "REQ-ODI-151",
+      "REQ-ODI-248"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 6800,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-18T11:39:40.025Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-032",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Jeypore Rural, Semiliguda",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Jeypore Rural",
+      "Semiliguda"
+    ],
+    "request_ids": [
+      "REQ-ODI-153",
+      "REQ-ODI-158"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 3,
+    "est_affected_population": 2400,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-26T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-033",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "electricity",
+    "title": "Dedicated transformer installation and high-capacity electricity transmission in Dasamantapur",
+    "sub_issue": "Dedicated transformer installation and high-capacity electricity transmission",
+    "village_texts": [
+      "Dasamantapur"
+    ],
+    "request_ids": [
+      "REQ-ODI-154"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 2100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-14T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-034",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Kundura, Borigumma",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Kundura",
+      "Borigumma",
+      "Boipariguda"
+    ],
+    "request_ids": [
+      "REQ-ODI-155",
+      "REQ-ODI-156",
+      "REQ-ODI-159"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-035",
+    "state": "odisha",
+    "district": "koraput",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Dasamantapur",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Dasamantapur"
+    ],
+    "request_ids": [
+      "REQ-ODI-160"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-27T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for koraput."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-036",
+    "state": "odisha",
+    "district": "mayurbhanj",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Baripada Rural, Jashipur",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Baripada Rural",
+      "Jashipur",
+      "Karanjia"
+    ],
+    "request_ids": [
+      "REQ-ODI-161",
+      "REQ-ODI-165",
+      "REQ-ODI-170",
+      "REQ-ODI-249"
+    ],
+    "issue_count": 4,
+    "unique_citizens": 4,
+    "avg_urgency": 4,
+    "est_affected_population": 19200,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-30T11:39:40.025Z",
+        "note": "4 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for mayurbhanj."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-037",
+    "state": "odisha",
+    "district": "mayurbhanj",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Rairangpur",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Rairangpur"
+    ],
+    "request_ids": [
+      "REQ-ODI-162"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-15T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for mayurbhanj."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-038",
+    "state": "odisha",
+    "district": "mayurbhanj",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Karanjia, Udala",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Karanjia",
+      "Udala",
+      "Betnoti",
+      "Morada",
+      "Rairangpur"
+    ],
+    "request_ids": [
+      "REQ-ODI-163",
+      "REQ-ODI-164",
+      "REQ-ODI-166",
+      "REQ-ODI-168",
+      "REQ-ODI-169",
+      "REQ-ODI-171",
+      "REQ-ODI-172"
+    ],
+    "issue_count": 7,
+    "unique_citizens": 7,
+    "avg_urgency": 2,
+    "est_affected_population": 10500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-06T11:39:40.024Z",
+        "note": "7 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for mayurbhanj."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-039",
+    "state": "odisha",
+    "district": "mayurbhanj",
+    "category": "irrigation",
+    "title": "Check dam construction and irrigation canal desilting in Badasahi",
+    "sub_issue": "Check dam construction and irrigation canal desilting",
+    "village_texts": [
+      "Badasahi"
+    ],
+    "request_ids": [
+      "REQ-ODI-167"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 3100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Canal desilting, check dam construction, and natural resource water conservation are core MGNREGA works.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, check dams, desilting of ponds/canals.\"",
+      "confidence": 0.92,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-13T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for mayurbhanj."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-040",
+    "state": "odisha",
+    "district": "sambalpur",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Rengali, Rairakhol",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Rengali",
+      "Rairakhol",
+      "Dhankauda",
+      "Kuchinda",
+      "Jujumura"
+    ],
+    "request_ids": [
+      "REQ-ODI-173",
+      "REQ-ODI-175",
+      "REQ-ODI-177",
+      "REQ-ODI-179",
+      "REQ-ODI-181",
+      "REQ-ODI-182",
+      "REQ-ODI-184"
+    ],
+    "issue_count": 7,
+    "unique_citizens": 7,
+    "avg_urgency": 2,
+    "est_affected_population": 10500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "7 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for sambalpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-041",
+    "state": "odisha",
+    "district": "sambalpur",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Kuchinda, Rairakhol",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Kuchinda",
+      "Rairakhol"
+    ],
+    "request_ids": [
+      "REQ-ODI-174",
+      "REQ-ODI-180"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 9600,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-11T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for sambalpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-042",
+    "state": "odisha",
+    "district": "sambalpur",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Jujumura",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Jujumura"
+    ],
+    "request_ids": [
+      "REQ-ODI-176"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 4,
+    "est_affected_population": 3400,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-07T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for sambalpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-043",
+    "state": "odisha",
+    "district": "sambalpur",
+    "category": "sanitation",
+    "title": "Solid waste management and concrete drainage channel network in Bamra",
+    "sub_issue": "Solid waste management and concrete drainage channel network",
+    "village_texts": [
+      "Bamra"
+    ],
+    "request_ids": [
+      "REQ-ODI-178"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 4,
+    "est_affected_population": 2900,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": "PMAY-G",
+      "reasoning": "Community wastewater drainage, soak pits, and solid waste composting in rural panchayats are permitted works under MGNREGA.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, desilting of ponds/canals, rural sanitation structures.\"",
+      "confidence": 0.88,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-05T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for sambalpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-044",
+    "state": "odisha",
+    "district": "sambalpur",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Bamra",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Bamra"
+    ],
+    "request_ids": [
+      "REQ-ODI-183"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-21T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for sambalpur."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-045",
+    "state": "odisha",
+    "district": "khordha",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Jatani, Banapur",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Jatani",
+      "Banapur"
+    ],
+    "request_ids": [
+      "REQ-ODI-185",
+      "REQ-ODI-186"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 6800,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for khordha."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-046",
+    "state": "odisha",
+    "district": "khordha",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Begunia, Banapur",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Begunia",
+      "Banapur"
+    ],
+    "request_ids": [
+      "REQ-ODI-187",
+      "REQ-ODI-192"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 4,
+    "est_affected_population": 9600,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-24T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for khordha."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-047",
+    "state": "odisha",
+    "district": "khordha",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Tangi, Balianta",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Tangi",
+      "Balianta",
+      "Jatani",
+      "Begunia",
+      "Balipatna"
+    ],
+    "request_ids": [
+      "REQ-ODI-188",
+      "REQ-ODI-189",
+      "REQ-ODI-191",
+      "REQ-ODI-193",
+      "REQ-ODI-194",
+      "REQ-ODI-195",
+      "REQ-ODI-196"
+    ],
+    "issue_count": 7,
+    "unique_citizens": 7,
+    "avg_urgency": 2,
+    "est_affected_population": 10500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "7 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for khordha."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-ODI-048",
+    "state": "odisha",
+    "district": "khordha",
+    "category": "irrigation",
+    "title": "Check dam construction and irrigation canal desilting in Balipatna",
+    "sub_issue": "Check dam construction and irrigation canal desilting",
+    "village_texts": [
+      "Balipatna"
+    ],
+    "request_ids": [
+      "REQ-ODI-190"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 3100,
+    "est_cost_crore": 0.25,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Canal desilting, check dam construction, and natural resource water conservation are core MGNREGA works.",
+      "catalog_basis": "Quoted: \"Water conservation and harvesting, check dams, desilting of ponds/canals.\"",
+      "confidence": 0.92,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for khordha."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-049",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Kadaladi, Rameswaram Island",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Kadaladi",
+      "Rameswaram Island",
+      "Sayalkudi",
+      "Paramakudi Rural"
+    ],
+    "request_ids": [
+      "REQ-TAM-197",
+      "REQ-TAM-200",
+      "REQ-TAM-204",
+      "REQ-TAM-206",
+      "REQ-TAM-250"
+    ],
+    "issue_count": 5,
+    "unique_citizens": 5,
+    "avg_urgency": 4,
+    "est_affected_population": 17000,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.025Z",
+        "note": "5 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-050",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Mudukulathur",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Mudukulathur"
+    ],
+    "request_ids": [
+      "REQ-TAM-198"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 2,
+    "est_affected_population": 1500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-22T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-051",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Paramakudi Rural, Mudukulathur",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Paramakudi Rural",
+      "Mudukulathur",
+      "Rameswaram Island"
+    ],
+    "request_ids": [
+      "REQ-TAM-199",
+      "REQ-TAM-205",
+      "REQ-TAM-208"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 14400,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-052",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Kamuthi",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Kamuthi"
+    ],
+    "request_ids": [
+      "REQ-TAM-201"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-07T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-053",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Mandapam",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Mandapam"
+    ],
+    "request_ids": [
+      "REQ-TAM-202"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-07T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-054",
+    "state": "tamil_nadu",
+    "district": "ramanathapuram",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Kamuthi",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Kamuthi"
+    ],
+    "request_ids": [
+      "REQ-TAM-207"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 1200,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-25T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for ramanathapuram."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-055",
+    "state": "tamil_nadu",
+    "district": "dharmapuri",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Pennagaram, Nallampalli",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Pennagaram",
+      "Nallampalli",
+      "Palacode"
+    ],
+    "request_ids": [
+      "REQ-TAM-209",
+      "REQ-TAM-213",
+      "REQ-TAM-218"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 10200,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-07T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for dharmapuri."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-056",
+    "state": "tamil_nadu",
+    "district": "dharmapuri",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Harur, Pennagaram",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Harur",
+      "Pennagaram",
+      "Karimangalam"
+    ],
+    "request_ids": [
+      "REQ-TAM-210",
+      "REQ-TAM-215",
+      "REQ-TAM-219",
+      "REQ-TAM-251"
+    ],
+    "issue_count": 4,
+    "unique_citizens": 4,
+    "avg_urgency": 4,
+    "est_affected_population": 19200,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-26T11:39:40.025Z",
+        "note": "4 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for dharmapuri."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-057",
+    "state": "tamil_nadu",
+    "district": "dharmapuri",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Palacode, Nallampalli",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Palacode",
+      "Nallampalli"
+    ],
+    "request_ids": [
+      "REQ-TAM-211",
+      "REQ-TAM-220"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 3,
+    "est_affected_population": 2400,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-27T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for dharmapuri."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-058",
+    "state": "tamil_nadu",
+    "district": "dharmapuri",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Karimangalam, Pappireddipatti",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Karimangalam",
+      "Pappireddipatti",
+      "Morappur"
+    ],
+    "request_ids": [
+      "REQ-TAM-212",
+      "REQ-TAM-214",
+      "REQ-TAM-216"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-14T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for dharmapuri."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-059",
+    "state": "tamil_nadu",
+    "district": "dharmapuri",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Harur",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Harur"
+    ],
+    "request_ids": [
+      "REQ-TAM-217"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 5,
+    "est_affected_population": 6200,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-28T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for dharmapuri."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-060",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Melur, Thirumangalam",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Melur",
+      "Thirumangalam",
+      "Sedapatti",
+      "Vadipatti"
+    ],
+    "request_ids": [
+      "REQ-TAM-221",
+      "REQ-TAM-223",
+      "REQ-TAM-226",
+      "REQ-TAM-229",
+      "REQ-TAM-252"
+    ],
+    "issue_count": 5,
+    "unique_citizens": 5,
+    "avg_urgency": 2,
+    "est_affected_population": 7500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-29T11:39:40.025Z",
+        "note": "5 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-061",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Usilampatti, Thirumangalam",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Usilampatti",
+      "Thirumangalam",
+      "Sholavandan"
+    ],
+    "request_ids": [
+      "REQ-TAM-222",
+      "REQ-TAM-228",
+      "REQ-TAM-230"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 10200,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-19T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-062",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "health",
+    "title": "Primary Health Centre infrastructure, emergency care and cold chain facility in Vadipatti, Usilampatti",
+    "sub_issue": "Primary Health Centre infrastructure, emergency care and cold chain facility",
+    "village_texts": [
+      "Vadipatti",
+      "Usilampatti"
+    ],
+    "request_ids": [
+      "REQ-TAM-224",
+      "REQ-TAM-227"
+    ],
+    "issue_count": 2,
+    "unique_citizens": 2,
+    "avg_urgency": 5,
+    "est_affected_population": 12400,
+    "est_cost_crore": 0.77,
+    "scheme_routing": {
+      "primary_scheme_id": "NHM",
+      "secondary_scheme_id": null,
+      "reasoning": "Primary health centre and sub-centre strengthening, cold chain, and maternal care are core NHM eligible works.",
+      "catalog_basis": "Quoted: \"Primary Health Centre (PHC) building upgradation, Sub-Health Centre solar power and labour rooms, cold chain.\"",
+      "confidence": 0.93,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "NHM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-05T11:39:40.024Z",
+        "note": "2 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to NHM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-063",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Sholavandan",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Sholavandan"
+    ],
+    "request_ids": [
+      "REQ-TAM-225"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 1200,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-23T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-064",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Sedapatti",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Sedapatti"
+    ],
+    "request_ids": [
+      "REQ-TAM-231"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 4,
+    "est_affected_population": 4800,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-17T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-065",
+    "state": "tamil_nadu",
+    "district": "madurai",
+    "category": "housing",
+    "title": "Pucca rural housing allocation for flood-prone and kutcha settlements in Melur",
+    "sub_issue": "Pucca rural housing allocation for flood-prone and kutcha settlements",
+    "village_texts": [
+      "Melur"
+    ],
+    "request_ids": [
+      "REQ-TAM-232"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 850,
+    "est_cost_crore": 0.35,
+    "scheme_routing": {
+      "primary_scheme_id": "PMAY-G",
+      "secondary_scheme_id": null,
+      "reasoning": "Rural housing financial assistance for kutcha and dilapidated dwellings is exclusively covered by PMAY-Gramin.",
+      "catalog_basis": "Quoted: \"Rural pucca housing clusters, disaster-resilient dwelling units, housing sanitation attachment.\"",
+      "confidence": 0.98,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMAY-G",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for madurai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMAY-G."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-066",
+    "state": "tamil_nadu",
+    "district": "chennai",
+    "category": "water",
+    "title": "Drinking water pipeline leakage and acute salinity issue in Ambattur Fringe, Madhavaram",
+    "sub_issue": "Drinking water pipeline leakage and acute salinity issue",
+    "village_texts": [
+      "Ambattur Fringe",
+      "Madhavaram",
+      "Manali",
+      "Sholinganallur Outer"
+    ],
+    "request_ids": [
+      "REQ-TAM-233",
+      "REQ-TAM-234",
+      "REQ-TAM-237",
+      "REQ-TAM-240",
+      "REQ-TAM-241"
+    ],
+    "issue_count": 5,
+    "unique_citizens": 5,
+    "avg_urgency": 4,
+    "est_affected_population": 17000,
+    "est_cost_crore": 0.63,
+    "scheme_routing": {
+      "primary_scheme_id": "JJM",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "Piped drinking water distribution and functional household tap connections fall directly under Jal Jeevan Mission.",
+      "catalog_basis": "Quoted: \"Piped drinking water distribution networks, borewell solar pumps, village water storage tanks.\"",
+      "confidence": 0.94,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "JJM",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-12T11:39:40.024Z",
+        "note": "5 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for chennai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to JJM."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-067",
+    "state": "tamil_nadu",
+    "district": "chennai",
+    "category": "road",
+    "title": "All-weather asphalt road connectivity and culvert construction in Sholinganallur Outer, Ambattur Fringe",
+    "sub_issue": "All-weather asphalt road connectivity and culvert construction",
+    "village_texts": [
+      "Sholinganallur Outer",
+      "Ambattur Fringe",
+      "Manali"
+    ],
+    "request_ids": [
+      "REQ-TAM-235",
+      "REQ-TAM-239",
+      "REQ-TAM-243"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 4,
+    "est_affected_population": 14400,
+    "est_cost_crore": 0.91,
+    "scheme_routing": {
+      "primary_scheme_id": "PMGSY",
+      "secondary_scheme_id": "MGNREGA",
+      "reasoning": "All-weather blacktopped road construction to unconnected rural habitations aligns with PMGSY mandate.",
+      "catalog_basis": "Quoted: \"Construction and major upgradation of all-weather rural roads, culverts, cross-drainage structures, blacktopping.\"",
+      "confidence": 0.95,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "PMGSY",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-23T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for chennai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to PMGSY."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-068",
+    "state": "tamil_nadu",
+    "district": "chennai",
+    "category": "other",
+    "title": "Community asset upgradation and public utility repair in Tondiarpet, Thiruvanmiyur Kuil Thoppu",
+    "sub_issue": "Community asset upgradation and public utility repair",
+    "village_texts": [
+      "Tondiarpet",
+      "Thiruvanmiyur Kuil Thoppu"
+    ],
+    "request_ids": [
+      "REQ-TAM-236",
+      "REQ-TAM-238",
+      "REQ-TAM-244"
+    ],
+    "issue_count": 3,
+    "unique_citizens": 3,
+    "avg_urgency": 2,
+    "est_affected_population": 4500,
+    "est_cost_crore": 0.2,
+    "scheme_routing": {
+      "primary_scheme_id": "MGNREGA",
+      "secondary_scheme_id": null,
+      "reasoning": "Unclassified rural community asset creation recommended for local panchayat execution under MGNREGA works.",
+      "catalog_basis": "Quoted: \"Creating durable rural community assets and manual wage works.\"",
+      "confidence": 0.75,
+      "human_check_needed": true,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "MGNREGA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-14T11:39:40.024Z",
+        "note": "3 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for chennai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to MGNREGA."
+      }
+    ]
+  },
+  {
+    "id": "PRJ-TAM-069",
+    "state": "tamil_nadu",
+    "district": "chennai",
+    "category": "education",
+    "title": "Government school classroom expansion, lab and sanitation facilities in Tondiarpet",
+    "sub_issue": "Government school classroom expansion, lab and sanitation facilities",
+    "village_texts": [
+      "Tondiarpet"
+    ],
+    "request_ids": [
+      "REQ-TAM-242"
+    ],
+    "issue_count": 1,
+    "unique_citizens": 1,
+    "avg_urgency": 3,
+    "est_affected_population": 1200,
+    "est_cost_crore": 0.4,
+    "scheme_routing": {
+      "primary_scheme_id": "SAMAGRA_SHIKSHA",
+      "secondary_scheme_id": null,
+      "reasoning": "Government school infrastructure, classroom addition, and girl-child toilet blocks are funded under Samagra Shiksha.",
+      "catalog_basis": "Quoted: \"Government school classroom additions, school boundary walls, girl-child toilet blocks, drinking water points.\"",
+      "confidence": 0.96,
+      "human_check_needed": false,
+      "is_live_ai": false
+    },
+    "priority_score": 85,
+    "funding_status": "Funded",
+    "allocated_scheme_id": "SAMAGRA_SHIKSHA",
+    "status_timeline": [
+      {
+        "stage": "received",
+        "timestamp": "2026-09-11T11:39:40.024Z",
+        "note": "1 community requests received from citizens."
+      },
+      {
+        "stage": "grouped",
+        "timestamp": "2026-09-27T11:40:13.781Z",
+        "note": "Synthesized into prioritized project cluster for chennai."
+      },
+      {
+        "stage": "prioritised",
+        "timestamp": "2026-09-28T11:40:13.781Z",
+        "note": "Scored and routed to SAMAGRA_SHIKSHA."
+      }
+    ]
+  }
+]

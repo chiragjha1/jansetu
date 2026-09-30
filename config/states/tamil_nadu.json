@@ -1,0 +1,85 @@
+{
+  "id": "tamil_nadu",
+  "name": "Tamil Nadu",
+  "native_name": "தமிழ்நாடு",
+  "language_code": "ta",
+  "language_name": "Tamil",
+  "districts": [
+    {
+      "id": "dharmapuri",
+      "name": "Dharmapuri",
+      "native_name": "தருமபுரி",
+      "lat": 12.1211,
+      "lng": 78.1582,
+      "population": 1506843,
+      "digital_access_rate": 0.55,
+      "indicators": {
+        "road_connectivity": 0.65,
+        "tap_water": 0.46,
+        "phc_access": 0.60,
+        "school_access": 0.68,
+        "electricity_reliability": 0.75,
+        "sanitation": 0.58
+      }
+    },
+    {
+      "id": "ramanathapuram",
+      "name": "Ramanathapuram",
+      "native_name": "இராமநாதபுரம்",
+      "lat": 9.3639,
+      "lng": 78.8395,
+      "population": 1353445,
+      "digital_access_rate": 0.58,
+      "indicators": {
+        "road_connectivity": 0.62,
+        "tap_water": 0.32,
+        "phc_access": 0.64,
+        "school_access": 0.70,
+        "electricity_reliability": 0.80,
+        "sanitation": 0.60
+      }
+    },
+    {
+      "id": "madurai",
+      "name": "Madurai",
+      "native_name": "மதுரை",
+      "lat": 9.9252,
+      "lng": 78.1198,
+      "population": 3038252,
+      "digital_access_rate": 0.78,
+      "indicators": {
+        "road_connectivity": 0.78,
+        "tap_water": 0.64,
+        "phc_access": 0.78,
+        "school_access": 0.82,
+        "electricity_reliability": 0.88,
+        "sanitation": 0.74
+      }
+    },
+    {
+      "id": "chennai",
+      "name": "Chennai",
+      "native_name": "சென்னை",
+      "lat": 13.0827,
+      "lng": 80.2707,
+      "population": 7088003,
+      "digital_access_rate": 0.92,
+      "indicators": {
+        "road_connectivity": 0.88,
+        "tap_water": 0.74,
+        "phc_access": 0.88,
+        "school_access": 0.90,
+        "electricity_reliability": 0.95,
+        "sanitation": 0.86
+      }
+    }
+  ],
+  "scheme_budgets": {
+    "PMGSY": 12.0,
+    "JJM": 16.5,
+    "MGNREGA": 15.0,
+    "PMAY-G": 9.0,
+    "SAMAGRA_SHIKSHA": 11.0,
+    "NHM": 13.0
+  }
+}
