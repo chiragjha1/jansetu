@@ -3,8 +3,8 @@ import { store } from "@/lib/store";
 
 export async function GET() {
   const hasKey = Boolean(process.env.GEMINI_API_KEY);
-  const model = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-  const embedModel = process.env.GEMINI_EMBED_MODEL || "text-embedding-004";
+  const model = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
+  const embedModel = process.env.GEMINI_EMBED_MODEL || "gemini-embedding-2";
 
   const states = store.getStates();
   const projects = store.getProjects();

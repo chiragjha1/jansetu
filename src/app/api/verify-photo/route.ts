@@ -55,7 +55,7 @@ export async function POST(req: NextRequest) {
 
     // Step: Gemini Vision Verification
     const apiKey = process.env.GEMINI_API_KEY;
-    const modelName = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+    const modelName = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
 
     if (apiKey && after_photo_base64) {
       try {

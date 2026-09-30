@@ -1,7 +1,12 @@
-import { ExtractionResult, ExtractionResultSchema, SchemeRoutingResult, SchemeRoutingSchema, VerificationResult, VerificationResultSchema } from "./types";
+import { ExtractionResult, ExtractionResultSchema, SchemeRoutingResult, SchemeRoutingSchema, VerificationResult, VerificationResultSchema, CATEGORIES, Category } from "./types";
+import dns from "node:dns";
 
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
-const GEMINI_EMBED_MODEL = process.env.GEMINI_EMBED_MODEL || "text-embedding-004";
+try {
+  dns.setDefaultResultOrder("ipv4first");
+} catch {}
+
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
+const GEMINI_EMBED_MODEL = process.env.GEMINI_EMBED_MODEL || "gemini-embedding-2";
 
 // Fast client instance builder (server-side only)
 async function getGenAIClient() {
@@ -155,7 +160,39 @@ Output strictly valid JSON conforming to the schema.`;
 
         if (response.text) {
           const parsed = JSON.parse(response.text.trim());
-          const validated = ExtractionResultSchema.parse(parsed);
+          const cat = String(parsed.category || "").toLowerCase();
+          const matchedCategory: Category = CATEGORIES.includes(cat as Category)
+            ? (cat as Category)
+            : cat.includes("water") ? "water"
+            : cat.includes("road") ? "road"
+            : cat.includes("health") ? "health"
+            : cat.includes("school") || cat.includes("education") ? "education"
+            : cat.includes("electric") ? "electricity"
+            : cat.includes("sanitat") ? "sanitation"
+            : "other";
+
+          let urg = typeof parsed.urgency === "number" ? Math.round(parsed.urgency) : 3;
+          if (typeof parsed.urgency === "string") {
+            const u = parsed.urgency.toLowerCase();
+            if (u.includes("high") || u.includes("crit")) urg = 4;
+            else if (u.includes("low")) urg = 2;
+          }
+          urg = Math.max(1, Math.min(5, urg));
+
+          const normalized: ExtractionResult = {
+            language_detected: String(parsed.language_detected || (state === "rajasthan" ? "hi" : state === "odisha" ? "or" : state === "tamil_nadu" ? "ta" : "en")),
+            transcript: parsed.transcript || null,
+            translation_en: String(parsed.translation_en || text),
+            category: matchedCategory,
+            sub_issue: String(parsed.sub_issue || "Public infrastructure issue"),
+            urgency: urg,
+            urgency_reason: String(parsed.urgency_reason || "Community civic requirement"),
+            affected_population_estimate: typeof parsed.affected_population_estimate === "number" ? parsed.affected_population_estimate : null,
+            confidence: typeof parsed.confidence === "number" ? Math.max(0, Math.min(1, parsed.confidence)) : 0.92,
+            needs_clarification: Boolean(parsed.needs_clarification),
+            clarifying_question: parsed.clarifying_question || null,
+          };
+          const validated = ExtractionResultSchema.parse(normalized);
           return { result: validated, is_live_ai: true };
         }
       } catch (err) {
@@ -182,8 +219,9 @@ export async function getEmbedding(text: string): Promise<number[]> {
         model: GEMINI_EMBED_MODEL,
         contents: text,
       });
-      if (resp.embedding?.values) {
-        return resp.embedding.values;
+      const values = (resp as any).embeddings?.[0]?.values || (resp as any).embedding?.values;
+      if (values && values.length > 0) {
+        return values;
       }
     } catch (e) {
       console.warn("Embedding API error, using hash embedding fallback:", e);

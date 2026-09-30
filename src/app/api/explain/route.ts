@@ -9,7 +9,7 @@ export async function POST(req: NextRequest) {
 
     // Check if GEMINI_API_KEY is available
     const apiKey = process.env.GEMINI_API_KEY;
-    const modelName = process.env.GEMINI_MODEL || "gemini-2.5-flash";
+    const modelName = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
 
     if (mode === "what_changed") {
       // Top movers narration

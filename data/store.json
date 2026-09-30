@@ -3500,9 +3500,205 @@
           "note": "Scored and routed to SAMAGRA_SHIKSHA."
         }
       ]
+    },
+    {
+      "id": "PRJ-ODI-1894",
+      "state": "odisha",
+      "district": "koraput",
+      "category": "water",
+      "title": "Drinking water pipeline and supply restoration in Putsil",
+      "sub_issue": "Drinking water pipeline and supply restoration",
+      "village_texts": [
+        "Putsil",
+        "Pondi"
+      ],
+      "request_ids": [
+        "TICKET-ODI-121893",
+        "TICKET-ODI-989540"
+      ],
+      "issue_count": 2,
+      "unique_citizens": 2,
+      "avg_urgency": 4,
+      "est_affected_population": 2500,
+      "est_cost_crore": 0.45,
+      "embedding": [
+        0.4622362425327494,
+        0.25116946512053506,
+        0.23639479070168004,
+        0.22795211960519146,
+        0.2047347740898479,
+        0.2047347740898479,
+        0.2089561096380922,
+        0.25116946512053506,
+        0.24272679402404648,
+        0.2089561096380922,
+        0.21106677741221433,
+        0.25116946512053506,
+        0.23639479070168004,
+        0.2047347740898479,
+        0.24272679402404648,
+        0.24061612624992434
+      ],
+      "scheme_routing": {
+        "primary_scheme_id": "JJM",
+        "secondary_scheme_id": "MGNREGA",
+        "reasoning": "Categorized under JJM eligible civic works.",
+        "catalog_basis": "Identified by Gemini semantic alignment with JJM guidelines.",
+        "confidence": 0.92,
+        "human_check_needed": false,
+        "is_live_ai": false
+      },
+      "priority_score": 75,
+      "funding_status": "Funded",
+      "allocated_scheme_id": "JJM",
+      "status_timeline": [
+        {
+          "stage": "received",
+          "timestamp": "2026-09-30T14:22:01.894Z",
+          "note": "Citizen request registered into ledger."
+        },
+        {
+          "stage": "grouped",
+          "timestamp": "2026-09-30T14:22:01.894Z",
+          "note": "Grouped into community project PRJ-ODI-1894."
+        }
+      ]
+    },
+    {
+      "id": "PRJ-RAJ-4538",
+      "state": "rajasthan",
+      "district": "barmer",
+      "category": "water",
+      "title": "Drinking water pipeline and supply restoration in Jodhpur",
+      "sub_issue": "Drinking water pipeline and supply restoration",
+      "village_texts": [
+        "Jodhpur"
+      ],
+      "request_ids": [
+        "TICKET-RAJ-134538"
+      ],
+      "issue_count": 1,
+      "unique_citizens": 1,
+      "avg_urgency": 4,
+      "est_affected_population": 2500,
+      "est_cost_crore": 0.45,
+      "embedding": [
+        0.4622362425327494,
+        0.25116946512053506,
+        0.23639479070168004,
+        0.22795211960519146,
+        0.2047347740898479,
+        0.2047347740898479,
+        0.2089561096380922,
+        0.25116946512053506,
+        0.24272679402404648,
+        0.2089561096380922,
+        0.21106677741221433,
+        0.25116946512053506,
+        0.23639479070168004,
+        0.2047347740898479,
+        0.24272679402404648,
+        0.24061612624992434
+      ],
+      "scheme_routing": {
+        "primary_scheme_id": "JJM",
+        "secondary_scheme_id": "MGNREGA",
+        "reasoning": "Categorized under JJM eligible civic works.",
+        "catalog_basis": "Identified by Gemini semantic alignment with JJM guidelines.",
+        "confidence": 0.92,
+        "human_check_needed": false,
+        "is_live_ai": false
+      },
+      "priority_score": 75,
+      "funding_status": "Funded",
+      "allocated_scheme_id": "JJM",
+      "status_timeline": [
+        {
+          "stage": "received",
+          "timestamp": "2026-09-30T17:58:54.538Z",
+          "note": "Citizen request registered into ledger."
+        },
+        {
+          "stage": "grouped",
+          "timestamp": "2026-09-30T17:58:54.538Z",
+          "note": "Grouped into community project PRJ-RAJ-4538."
+        }
+      ]
     }
   ],
   "requests": [
+    {
+      "id": "TICKET-RAJ-134538",
+      "channel": "text",
+      "original_text": "water supply problem, no supply for days, people are thirsty",
+      "state": "rajasthan",
+      "district": "barmer",
+      "village_text": "Jodhpur",
+      "phone_hash": "hash_571615",
+      "created_at": "2026-09-30T17:58:54.538Z",
+      "extraction": {
+        "language_detected": "hi",
+        "translation_en": "Drinking water pipeline leak and acute community water supply crisis.",
+        "category": "water",
+        "sub_issue": "Drinking water pipeline and supply restoration",
+        "urgency": 4,
+        "urgency_reason": "Lack of potable water severely impacts community health.",
+        "affected_population_estimate": 2500,
+        "confidence": 0.88,
+        "needs_clarification": false,
+        "clarifying_question": null
+      },
+      "synthetic": false,
+      "project_id": "PRJ-RAJ-4538"
+    },
+    {
+      "id": "TICKET-ODI-989540",
+      "channel": "text",
+      "original_text": "There's no water supply, all streets are dirty and waterlogging is so common during rain, it's such a shithole please fix it.",
+      "state": "odisha",
+      "district": "koraput",
+      "village_text": "Pondi",
+      "phone_hash": "hash_488910",
+      "created_at": "2026-09-30T16:49:49.540Z",
+      "extraction": {
+        "language_detected": "or",
+        "translation_en": "Drinking water pipeline leak and acute community water supply crisis.",
+        "category": "water",
+        "sub_issue": "Drinking water pipeline and supply restoration",
+        "urgency": 4,
+        "urgency_reason": "Lack of potable water severely impacts community health.",
+        "affected_population_estimate": 2500,
+        "confidence": 0.88,
+        "needs_clarification": false,
+        "clarifying_question": null
+      },
+      "synthetic": false,
+      "project_id": "PRJ-ODI-1894"
+    },
+    {
+      "id": "TICKET-ODI-121893",
+      "channel": "text",
+      "original_text": "there's no regular water supply",
+      "state": "odisha",
+      "district": "koraput",
+      "village_text": "Putsil",
+      "phone_hash": "hash_487113",
+      "created_at": "2026-09-30T14:22:01.893Z",
+      "extraction": {
+        "language_detected": "or",
+        "translation_en": "Drinking water pipeline leak and acute community water supply crisis.",
+        "category": "water",
+        "sub_issue": "Drinking water pipeline and supply restoration",
+        "urgency": 4,
+        "urgency_reason": "Lack of potable water severely impacts community health.",
+        "affected_population_estimate": 2500,
+        "confidence": 0.88,
+        "needs_clarification": false,
+        "clarifying_question": null
+      },
+      "synthetic": false,
+      "project_id": "PRJ-ODI-1894"
+    },
     {
       "id": "TICKET-DEMO-01",
       "channel": "voice",
